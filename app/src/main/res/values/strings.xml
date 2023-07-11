@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practice_BirthdayCard</string>
+    <string name="happy_birthday_ray">Happy Birthday, Ray!</string>
+    <string name="signature_text">From Andoird.</string>
+</resources>
